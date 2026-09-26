@@ -1,0 +1,24 @@
+{
+  "name": "opl-borg",
+  "version": "0.1.0",
+  "description": "First-principles assimilation of technological distinctiveness into coherent, user-owned collectives.",
+  "author": {
+    "name": "One-Person Labs",
+    "url": "https://github.com/OnePersonLabs"
+  },
+  "repository": "https://github.com/OnePersonLabs/opl-borg",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "OPL Borg",
+    "shortDescription": "Assimilate distinctiveness into your own collectives",
+    "longDescription": "Recover donor capabilities, redesign their native boundaries, and prove their value survived. Large assimilations use durable campaign records, bounded subagents, and recoverable handoffs across context windows.",
+    "developerName": "One-Person Labs",
+    "category": "Developer Tools",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Use $assimilate to recover these donors' distinctive capabilities and integrate them into my system.",
+      "Use $assimilate to resume the assimilation campaign from its STATE.md."
+    ]
+  },
+  "license": "MIT"
+}

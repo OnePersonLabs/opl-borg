@@ -1,0 +1,7 @@
+**/.temp/
+**/__pycache__/
+**/node_modules/
+.work/
+/.borg/
+*Zone.Identifier
+__azurite_db_blob_*

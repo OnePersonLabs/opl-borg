@@ -1,0 +1,20 @@
+{
+  "name": "opl-borg",
+  "interface": {
+    "displayName": "Opl Borg"
+  },
+  "plugins": [
+    {
+      "name": "opl-borg",
+      "source": {
+        "source": "local",
+        "path": "./plugins/opl-borg"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

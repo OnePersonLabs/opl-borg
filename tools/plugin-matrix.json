@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "rootUnitRoots": [],
+  "evaluation": {
+    "model": "gpt-6-sol",
+    "reasoningEffort": "high"
+  },
+  "plugins": {
+    "opl-borg": {
+      "unitRoots": [],
+      "commands": []
+    }
+  }
+}

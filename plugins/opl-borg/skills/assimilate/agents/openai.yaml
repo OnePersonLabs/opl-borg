@@ -1,0 +1,6 @@
+interface:
+  display_name: "Assimilate"
+  short_description: "Recover donor value across agents and contexts"
+  default_prompt: "Use $assimilate to recover these donors’ distinctive capabilities and integrate them into coherent collectives suited to my system."
+policy:
+  allow_implicit_invocation: true

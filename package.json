@@ -1,0 +1,23 @@
+{
+  "name": "opl-borg",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OnePersonLabs/opl-borg.git"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "test:focus": "node tools/plugin-dev.mjs focus",
+    "test:contract": "node tools/plugin-dev.mjs contract",
+    "test:unit": "node tools/plugin-dev.mjs unit",
+    "eval:smoke": "node tools/plugin-dev.mjs eval",
+    "test:installed": "node tools/plugin-dev.mjs installed",
+    "verify": "node tools/plugin-dev.mjs verify",
+    "release:verify": "node tools/plugin-dev.mjs release"
+  }
+}
