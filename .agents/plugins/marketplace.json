@@ -5,7 +5,7 @@
   },
   "plugins": [
     {
-      "name": "opl-borg",
+      "name": "OPL Borg",
       "source": {
         "source": "local",
         "path": "./plugins/opl-borg"
