@@ -1,11 +1,11 @@
 {
   "name": "opl-borg",
   "interface": {
-    "displayName": "Opl Borg"
+    "displayName": "OPL Borg"
   },
   "plugins": [
     {
-      "name": "OPL Borg",
+      "name": "opl-borg",
       "source": {
         "source": "local",
         "path": "./plugins/opl-borg"
